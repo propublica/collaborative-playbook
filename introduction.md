@@ -1,25 +1,26 @@
-# Introduction: What Is Collaborative Journalism?
+# What Is Collaborative Data Journalism, and Why Would We Want to Do It?
 
-Collaborative journalism is the practice of two or more newsrooms working together on a story, a series of stories, a reporting project, or a data set. Collaborations may also include newsrooms working with non-media entities, like universities, non-profits, researchers, or libraries.
+As budgets shrink and as the internet creates new opportunities for effortless communication and file sharing, newsrooms across the country are turning to new ways of working together to deliver complex data-based stories to their communities.  
 
-Collaborations allow multiple newsrooms to tell a larger number of stories, reach different audiences, make the most out of large data sets, and ultimately, have important impact.
+Huge datasets that cover vital national issues are coming out of the federal government every day, and within them hide endless numbers of story leads for local journalists. Data journalism teams and civic hackers are collecting massive troves of data, which present a rich vein of reporting if they can be efficiently mined. Engagement and social media teams are fielding large numbers of tips and crowdsourcing responses from their communities, only a few of which can become parts of stories. 
 
-These types of collaborations come together for a variety of reasons.
+With the proliferation of available data, it’s become more common for newsrooms to have access to datasets that contain more story leads than they can meaningfully pursue themselves. Collaborative data journalism allows multiple newsrooms to find and tell those stories, make the most out of large datasets and, ultimately, increase the chances that their work will have impact.
 
-Some are formed through necessity, such as connecting small newsrooms together, like Coast Alaska, or strengthening ties between local affiliates. Some collaborations focus on a topic, like the Broke in Philly collaboration about economic mobility in Philadelphia.
+The results of collaborative data projects can be anything — a story, a series of stories, an interactive graphic, a documentary, etc. Collaborations can also include entities outside journalism, like universities, nonprofit groups, researchers or libraries. 
 
-Other collaborations arise around troves of data. The Panama Papers and Paradise Papers investigations were possible thanks to huge document leaks. And some collaborations center on an event, like ProPublica's Electionland project to track voting problems in real time.
+With the right tools and planning, very large, complex and even secret collaborations are possible. The [Panama Papers](https://www.icij.org/investigations/panama-papers/) and [Paradise Papers](https://www.icij.org/investigations/paradise-papers/) investigations, for example, distributed huge document leaks to dozens of newsrooms around the world. ProPublica's [Electionland](http://election.land) project tracks voting problems in real time by working with hundreds of newsrooms around the country.
 
-The Center for Collaborative Journalism, which studies these types of projects, defines six types of collaborations:
+Collaborations run the gamut from independently reporting stories within a coalition or conglomerate, to working together on co-published stories, to sharing resources to report separately. And while some collaborations may last for a limited period of time, others may be long term.
 
-* Temporary and Separate 
-* Temporary and Co-creating 
-* Temporary and Integrated 
-* Ongoing and Separate 
-* Ongoing and Co-creating 
-* Ongoing and Integrated
+The Center for Collaborative Journalism, which studies these types of projects, [defines six types of collaborations](https://collaborativejournalism.org/models/). Here’s how their taxonomy applies to data collaborations:
 
-In other words, collaborations run the gamut from independently reporting stories within a coalition, to working together to report stories, to sharing resources to report separately. And while some collaborations may last for a limited period of time, others may be long term.
+- Temporary and Separate: Covering the same issue and working entirely separately, like the [SF Homeless Project](https://twitter.com/bayareahomeless) 
+- Temporary and Co-creating: Sharing information but reporting independently, like ProPublica’s [Electionland](http://election.land) or [Documenting Hate](http://www.documentinghate.com) 
+- Temporary and Integrated: Reporting stories together for a period of time, like the [Panama Papers](https://www.icij.org/investigations/panama-papers/) and the [Implant Files](https://www.icij.org/investigations/implant-files/), or the USA Today network's data projects 
+- Ongoing and Separate: Partners create content separately and share it, like the [Marshall Project's Next to Die](https://www.themarshallproject.org/next-to-die) 
+- Ongoing and Co-creating: Co-reporting in a long-term setting, like [Alaska's Energy Desk](https://www.alaskapublic.org/category/aprn-app/newsfeed/akenergydesk/) 
+- Ongoing and Integrated: Partners work together on an operational level, like [TapInto](https://www.tapinto.net/) in New Jersey. 
+  
+Data partnerships tend to fall into the temporary category of co-creating or integrated approaches. Occasionally, they are ongoing and separate, like the [AP's Data World service](https://data.world/resources/reports-and-tools/associated-press-case-study/).
 
-The Center has a database of close to 200 different collaborative projects from around the world that shows the diversity and creativity of these types of endeavors.
-
+The center has a [database](https://collaborativejournalism.org/database-search-sort-learn-collaborative-projects-around-world/) of close to 200 different collaborative projects from around the world that shows the diversity and creativity of these types of endeavors.
