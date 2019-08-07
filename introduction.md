@@ -43,4 +43,4 @@ Do you have tips or concrete advice about how to execute a data- or tip-focused 
 
 1. Email Rachel Glickhouse at rachel dot glickhouse at propublica dot org. Please include your name, title and company. 
 2. Clone this project on Github, edit it and submit it back to us via a [pull request](https://help.github.com/en/articles/about-pull-requests). 
-3. Submit questions, feedback or ideas via Github’s [issue-tracking system] (https://github.com/propublica/collaborative-playbook/issues).
+3. Submit questions, feedback or ideas via Github’s [issue-tracking system] (https://github.com/propublica/collaborative-playbook/issues/).
