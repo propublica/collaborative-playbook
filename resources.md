@@ -17,18 +17,18 @@ The Center for Cooperative Media has: 
 
 ### Collaborative Reporting Tools
 
-Google Drive: Many newsrooms already use Google Docs and Sheets, but not every IT department allows journalists to use their work emails on Google Drive, which requires [G Suite](https://gsuite.google.com/). [Site](https://drive.google.com)
+[Google Drive](https://drive.google.com): Many newsrooms already use Google Docs and Sheets, but not every IT department allows journalists to use their work emails on Google Drive, which requires [G Suite](https://gsuite.google.com/). 
 
-Slack: This is a useful tool for communicating quickly with partners, sharing news and uploading files. [Site](https://slack.com/) 
+[Slack](https://slack.com/) : This is a useful tool for communicating quickly with partners, sharing news and uploading files. 
 
-Trello: This helps with task and project management, and it is especially helpful if you need to collaborate reporting or distribution among teams. [Site](https://trello.com/) 
+[Trello](https://trello.com/): This helps with task and project management, and it is especially helpful if you need to collaborate reporting or distribution among teams. 
 
-Airtable: A sophisticated tool used for project planning and tracking. You can also use it to collect callout responses. [Site](https://airtable.com/)
+[Airtable](https://airtable.com/): A sophisticated tool used for project planning and tracking. You can also use it to collect callout responses.
 
-DocumentCloud: A place to share and store documents. [Site](https://www.documentcloud.org/)
+[DocumentCloud](https://www.documentcloud.org/): A place to share and store documents.
 
-Datashare: Allows you to analyze documents and extract text from uploaded files. [Site](https://icij.gitbook.io/datashare/)
+[Datashare](https://icij.gitbook.io/datashare/): Allows you to analyze documents and extract text from uploaded files.
 
-MuckRock: Allows you to track, send and share FOIA requests all in one place; they'll send payments for you. [Site](http://www.muckrock.com)
+[MuckRock](http://www.muckrock.com): Allows you to track, send and share FOIA requests all in one place; they'll send payments for you.
 
-Todoist: A useful tool for individual task management that you can use on both desktop and mobile. [Site](https://en.todoist.com) 
+[Todoist](https://en.todoist.com) : A useful tool for individual task management that you can use on both desktop and mobile. 
