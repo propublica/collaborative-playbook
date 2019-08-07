@@ -1,4 +1,6 @@
-# What Is Collaborative Data Journalism, and Why Would We Want to Do It?
+# Introduction
+
+### What Is Collaborative Data Journalism, and Why Would We Want to Do It?
 
 As budgets shrink and as the internet creates new opportunities for effortless communication and file sharing, newsrooms across the country are turning to new ways of working together to deliver complex data-based stories to their communities.  
 
