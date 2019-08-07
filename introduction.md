@@ -24,3 +24,21 @@ The Center for Collaborative Journalism, which studies these types of projects, 
 Data partnerships tend to fall into the temporary category of co-creating or integrated approaches. Occasionally, they are ongoing and separate, like the [AP's Data World service](https://data.world/resources/reports-and-tools/associated-press-case-study/).
 
 The center has a [database](https://collaborativejournalism.org/database-search-sort-learn-collaborative-projects-around-world/) of close to 200 different collaborative projects from around the world that shows the diversity and creativity of these types of endeavors.
+
+### What Is This Guide?
+
+At ProPublica, collaborative journalism is a central part of our self-identity and ethos. We’ve partnered with hundreds of journalism outlets on thousands of stories. We’ve assembled this guide to pass on what we’ve learned to other newsrooms interested in starting similar efforts.
+
+We will also launch a free tool, called Collaborate, which is based on the one we built for our own data collaborations. 
+
+Finally, this guide is itself a collaboration. We think our process works well, but we don’t have a monopoly on good ideas. We’re posting this guide to GitHub, and we’re eager for your contributions via the normal GitHub methods of issues and pull requests. If you’re not familiar with how to participate using GitHub’s tools, [here’s a guide](https://guides.github.com/activities/hello-world/).
+
+This document is, and may always be, a work in progress. Tools will come out that help improve and even cause us to completely rethink the processes we describe here, and people who also do this work will learn lessons we haven’t. Like any collaboration, the results are stronger because we worked on this together. 
+
+### How Can I Contribute or Ask Questions?
+
+Do you have tips or concrete advice about how to execute a data- or tip-focused collaboration? You can add to this guide in one of three ways:
+
+1. Email Rachel Glickhouse at rachel dot glickhouse at propublica dot org. Please include your name, title and company. 
+2. Clone this project on Github, edit it and submit it back to us via a [pull request](https://help.github.com/en/articles/about-pull-requests). 
+3. Submit questions, feedback or ideas via Github’s issue-tracking system.
