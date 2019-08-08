@@ -28,4 +28,4 @@ You should also consider any categories that you can use for filtering within th
 
 You should also think carefully about the language on the page that comes before the form. Keep it brief, but be clear about what you plan to do with submissions, how you’ll follow up and what you’ll do to ensure tipsters' privacy.
 
-Here's the form we use for [Documenting Hate](https://projects.propublica.org/graphics/hatecrimes-form), and here's the form we used to report on [separated families](https://www.propublica.org/getinvolved/do-you-know-a-child-in-a-detention-center-or-shelter-facility) at the border. Both are available in Spanish.
+For example, here's the form we use for [Documenting Hate](https://projects.propublica.org/graphics/hatecrimes-form), and here's the form we used to report on [separated families](https://www.propublica.org/getinvolved/do-you-know-a-child-in-a-detention-center-or-shelter-facility) at the border. Both are available in Spanish.
