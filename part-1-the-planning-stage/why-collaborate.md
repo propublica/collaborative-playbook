@@ -1,16 +1,21 @@
-# Why collaborate?
+#### Does This Project Make Sense for Collaboration?
 
-Stefanie Murray, the director of the Center for Cooperative Media and an expert on journalism collaborations, says five of the most common ways collaborative projects start are based on: an upcoming event a looming crisis someone who starts a conversation about enterprise topics someone who's having trouble cracking a story on their own someone who received resources or funding.
+The first step you should take is to decide whether collaboration makes sense and to put together a case for it to present to your own newsroom. 
 
-Murray recommends that when considering partners, you will want to evaluate the need for help with the following areas: Reporting Records requests Distribution Data analysis The ability to expand the scope of the project.
+"There's many, many reasons that you might seek a partner, but it's important to think about why," said Stefanie Murray, the director of the Center for Cooperative Media and an expert on journalism collaborations.
 
-"There's many many reasons that you might seek a partner, but it's important to think about why," she says.
+According to Murray, five of the most common reasons collaborative projects start are:
 
-Heather Bryant, founder and director of Project Facet, a platform for journalism collaborations, says that it's important that partners recognize each other's different motivations from the beginning of the planning process, and that clearly communicating goals, roles and expectations is key.
+- A big event, such as an election, is coming up that is too complex to be covered well by a single newsroom. 
+- A crisis is looming, or has happened, such as in a breaking news situation. 
+- A newsroom has an idea for an enterprise topic that makes sense across newsrooms with different audiences and expertise. 
+- A newsroom is having trouble cracking a story on its own and thinks bringing in more reporters may help 
+- A newsroom has received resources or funding [to do a collaborative project]. 
+  
+Murray recommends that when considering partners, you will first want to evaluate what kind of help your newsroom needs from potential collaborators. You might want to seek partners to shore up weak spots in your own newsroom. Do you need more reporters? Help dealing with records requests? Do you need access to expertise such as data analysis? Language skills or access to communities you have trouble reaching? Or do you see the partnership simply as an audience acquisition strategy and are looking to partner with the biggest-traffic source you can find?
 
-"I found that the groups that have really made it work are the ones that have doubled down on the effort to clearly communicate with everybody and try to meet people where they are and ensure that everybody knows what's going on," she said. "I feel like any effort you invest in communicating and making sure that everybody who's participating is informed is a value you definitely get a return on."
+Before you get started, it's well worth weighing the costs and benefits of the collaboration. It's better to say no up front than to join and not fully participate, or have to back out.
 
-Once you agree to a partnership, Murray's recommendation is that all parties consider the following: Will you produce content separately and share it? Will you feed into a shared data set that you use to do reporting independently? Will you analyze data together and combine reporting resources? What shared language will you use? How will this be funded? Will you use shared images or logos? How will the editing process work? How will you distribute each other's content, if applicable? How will you give credit?
+Collaboration may not be right for everyone, or for every project. You shouldn't partner simply for the sake of partnering — you have to be willing to buy into the overall goals of the project and be fully willing to participate and share. You shouldn't join in order to rely on other newsrooms to do work for you; pitching in is part of any collaborative process.
 
-"I encourage folks to do that and think through as many of those things as they can at the beginning so that you're not building the plane while it's in the air as much as possible," Murray says.
-
+Managing a collaborative data project takes time. If you don't have the time to commit right now, it may be best to wait.
