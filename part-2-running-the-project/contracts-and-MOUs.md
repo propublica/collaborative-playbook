@@ -16,6 +16,6 @@ While written agreements may be unnecessary, a clear explanation of any ground r
 
 [The Bureau Local](https://www.thebureauinvestigates.com/local), a United Kingdom-based network that does collaborative, investigative data journalism, sets out a relatively simple agreement when it onboards partners. Partners must sign off on the agreement in an email or through a Google Form. Here's how the group describes the process in their [resource guide](https://docs.google.com/document/d/1VVJnVaHK8LuWXnwVcvVEZnkghvLla064vulUrMH-scU/edit):
 
-_"All interested collaborators must agree to Bureau Local terms before they get access to the investigation. They must agree to a) the embargo date set out by the Bureau Local b) credit the Bureau Local in their work c) share their findings with other collaborators d) adhere to any guidance or caveats we put on the data/evidence we provide. 
+> _"All interested collaborators must agree to Bureau Local terms before they get access to the investigation. They must agree to a) the embargo date set out by the Bureau Local b) credit the Bureau Local in their work c) share their findings with other collaborators d) adhere to any guidance or caveats we put on the data/evidence we provide._ 
 
-Once potential collaborators agree to these terms (in writing or on a digital form) they are invited to a private channel on our online platform, Slack, and are given access to our reporting recipes and data files."_
+> _Once potential collaborators agree to these terms (in writing or on a digital form) they are invited to a private channel on our online platform, Slack, and are given access to our reporting recipes and data files."_
