@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Collaborative Journalism Playbook](README.md)
-* [Introduction: What Is Collaborative Journalism?](introduction.md)
+* [Introduction: What Is Collaborative Data Journalism? What Is This Guide?](introduction.md)
 * [Part 1: The planning stage](part-1-the-planning-stage)
   * [Does this project make sense for collaboration?](part-1-the-planning-stage/why-collaborate.md)
   * [What about crowd-powered collaborations?](part-1-the-planning-stage/crowd-powered-projects.md)
