@@ -22,5 +22,5 @@
   * [About the author and project](about/author-and-project.md)
   * [Acknowledgments](about/acknowledgments.md)
   * [Resources](resources.md)
-  * [Worksheet](part-5-winding-down-the-project/winding-down.md)
+  * [Worksheet](worksheet.md)
 
