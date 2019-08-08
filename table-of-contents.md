@@ -21,6 +21,6 @@
 * [About](about/README.md)
   * [About the author and project](about/author-and-project.md)
   * [Acknowledgments](about/acknowledgments.md)
-  * [Resources](resources.md)
-  * [Worksheet](worksheet.md)
+  * [Resources](about/resources.md)
+  * [Worksheet](about/worksheet.md)
 
