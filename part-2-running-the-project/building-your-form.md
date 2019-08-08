@@ -2,7 +2,7 @@
 
 *ProPublica is building on the software tool we created for our large-scale partnerships and releasing it open source. It’s meant to be a turnkey solution that you can use to build your own project without having to start from scratch or hire a developer. It’s called Collaborate, and it will be available in the fall.* 
 
-*The project is a collaboration with the Google News Initiative, which also provided financial support. The software currently supports Google Forms, which is the tool we’ll use for our examples. It also supports data submitted using Screendoor, as well as data in Google Sheets spreadsheets you have access to. [**Sign up here to receive an alert when the tool is launched**](https://propublica.forms.fm/documenting-hate-tool-sign-up).
+*The project is a collaboration with the Google News Initiative, which also provided financial support. The software currently supports Google Forms, which is the tool we’ll use for our examples. It also supports data submitted using Screendoor, as well as data in Google Sheets spreadsheets you have access to. [**Sign up here to receive an alert when the tool is launched**](https://propublica.forms.fm/documenting-hate-tool-sign-up).*
 
 *From here on out, this guide is going to assume your project is based on crowdsourced tips.*
 
