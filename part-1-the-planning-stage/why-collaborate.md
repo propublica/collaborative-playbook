@@ -1,4 +1,4 @@
-#### Does This Project Make Sense for Collaboration?
+# Does This Project Make Sense for Collaboration?
 
 The first step you should take is to decide whether collaboration makes sense and to put together a case for it to present to your own newsroom. 
 
