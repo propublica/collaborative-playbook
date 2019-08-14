@@ -14,7 +14,7 @@ With the right tools and planning, very large, complex and even secret collabora
 
 Collaborations run the gamut from independently reporting stories within a coalition or conglomerate, to working together on co-published stories, to sharing resources to report separately. And while some collaborations may last for a limited period of time, others may be long term.
 
-The Center for Collaborative Journalism, which studies these types of projects, [defines six types of collaborations](https://collaborativejournalism.org/models/). Here’s how their taxonomy applies to data collaborations:
+The Center for Cooperative Media, which studies these types of projects, [defines six types of collaborations](https://collaborativejournalism.org/models/). Here’s how their taxonomy applies to data collaborations:
 
 * Temporary and Separate: Covering the same issue and working entirely separately, like the [SF Homeless Project](https://twitter.com/bayareahomeless) 
 * Temporary and Co-creating: Sharing information but reporting independently, like ProPublica’s [Electionland](http://election.land) or [Documenting Hate](http://www.documentinghate.com) 
