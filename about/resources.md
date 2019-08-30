@@ -5,14 +5,15 @@
 The Center for Cooperative Media has:
 
 * A [database of journalism collaborations](https://collaborativejournalism.org/database-search-sort-learn-collaborative-projects-around-world/) from around the world available in English, Spanish and Portuguese; 
-* [Recommended tools](https://collaborativejournalism.org/collaborative-technology/); 
+* [Recommended tools](https://collaborativejournalism.org/technology/); 
 * [Tip sheets and best practice guides](https://collaborativejournalism.org/guides/); 
 * [A breakdown of the different types of collaborations](https://collaborativejournalism.org/models/); 
 * A [Slack group](http://collaborativenews.slack.com) and a [newsletter](https://centerforcooperativemedia.us5.list-manage.com/subscribe?u=7f46611cb324e9e193acda7cc&id=2e8bb60c9c); 
 * [Research on past collaborations](https://collaborativejournalism.org/research/). 
-* Heather Bryant's Project Facet has a [collaborative journalism workbook available in both English and Spanish](https://www.projectfacet.org/collaborative-journalism-workbook/). It will soon be available in French and Italian. 
+* Heather Bryant's Project Facet has a [collaborative journalism workbook available in English, Spanish and French](https://www.projectfacet.org/collaborative-journalism-workbook/). It will soon be available in Italian. 
 * The [six types of collaborative journalism](http://www.niemanlab.org/2017/09/here-are-6-different-kinds-of-collaborative-journalism-and-the-good-and-bad-things-about-each/) and the pros and cons of each, from Nieman Lab. 
 * [Six lessons from collaborative journalism projects](https://gijn.org/2018/10/23/collaborative-reporting/), from Global Investigative Journalism Network. 
+* [Ten tips for successful collaborations](https://medium.com/@GuilhermeAmado/10-tips-for-successful-collaboration-among-journalists-eabddc9e7d24) from 2018 JSK fellows, available in five languages.
 * A [case study on Electionland 2016](https://propublica.s3.amazonaws.com/assets/docs/electionland-case-study.pdf?_ga=2.4589747.1844853993.1564498985-2144854138.1548797937). 
 
 ## Collaborative Reporting Tools
