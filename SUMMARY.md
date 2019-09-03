@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Collaborative Data Journalism Guide](README.md)
+* [Available Languages](languages.md)
 * [Introduction](introduction.md)
 * [Part 1: How to Run a Collaborative Data Project](part-1-the-planning-stage/README.md)
   * [Does This Project Make Sense for Collaboration?](part-1-the-planning-stage/why-collaborate.md)
