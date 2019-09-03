@@ -1,3 +1,7 @@
+---
+description: by Rachel Glickhouse
+---
+
 # Collaborative Data Journalism Guide
 
 ##                                             Supported by
