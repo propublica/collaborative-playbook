@@ -31,7 +31,7 @@ The center has a [database](https://collaborativejournalism.org/database-search-
 
 At ProPublica, collaborative journalism is a central part of our self-identity and ethos. We’ve partnered with hundreds of journalism outlets on thousands of stories. We’ve assembled this guide to pass on what we’ve learned to other newsrooms interested in starting similar efforts.
 
-We will also launch a free tool, called Collaborate, which is based on the one we built for our own data collaborations.
+We also launched a [free tool called Collaborate](https://propublica.gitbook.io/collaborate-user-manual/), which is based on the one we built for our own data collaborations.
 
 Finally, this guide is itself a collaboration. We think our process works well, but we don’t have a monopoly on good ideas. We’re posting this guide to GitHub, and we’re eager for your contributions via the normal GitHub methods of issues and pull requests. If you’re not familiar with how to participate using GitHub’s tools, [here’s a guide](https://guides.github.com/activities/hello-world/).
 
