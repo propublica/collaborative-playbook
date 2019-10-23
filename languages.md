@@ -6,5 +6,5 @@ description: This guide will be available in several languages in addition to En
 
 ### [Leer en español](https://propublica.gitbook.io/collaborative-journalism-playbook-es/)
 
-### Ler em português \(em breve\)
+### [Ler em português](https://propublica.gitbook.io/pt-collaborative-playbook/)
 

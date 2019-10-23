@@ -6,7 +6,7 @@ Rachel Glickhouse is the partner manager for the Documenting Hate project at Pro
 
 ## About the Documenting Hate project
 
-Documenting Hate is a collaborative, crowd-powered project launched by ProPublica in January 2017 to investigate hate crimes and bias incidents in the United States. More than 160 newsrooms are partners, as well as nearly 20 college newspapers and various journalism schools. To date, the project has collected nearly 6,000 tips and journalists have produced nearly 200 stories.
+Documenting Hate is a collaborative, crowd-powered project launched by ProPublica in January 2017 to investigate hate crimes and bias incidents in the United States. More than 180 newsrooms are partners, as well as nearly 20 college newspapers and various journalism schools. To date, the project has collected more than 6,000 tips and journalists have produced more than 200 stories.
 
 ## About Our Collaborative Tool
 
