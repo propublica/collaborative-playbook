@@ -1,6 +1,6 @@
 # Building Your Form and Database
 
-_ProPublica built on the software tool we created for our large-scale partnerships and released it open source. It’s meant to be a turnkey solution that you can use to build your own project without having to start from scratch or hire a developer. I_[_t’s called Collaborate, and it's available here_](https://www.propublica.org/nerds/making-collaborative-data-projects-easier-our-new-tool-collaborate-is-here)_._
+_ProPublica built on the software tool we created for our large-scale partnerships and released it open source. It’s meant to be a turnkey solution that you can use to build your own project without having to start from scratch or hire a developer._ [_It's called Collaborate, and it's available here_](https://www.propublica.org/nerds/making-collaborative-data-projects-easier-our-new-tool-collaborate-is-here)_._
 
 _The project is a collaboration with the Google News Initiative, which also provided financial support. The software currently supports Google Forms, which is the tool we’ll use for our examples. It also supports data submitted using Screendoor, as well as data in Google Sheets spreadsheets you have access to and CSVs._ 
 
