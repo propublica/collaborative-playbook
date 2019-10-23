@@ -1,5 +1,5 @@
 ---
-description: This guide will be available in several languages in addition to English.
+description: This guide is available in Spanish and Portuguese.
 ---
 
 # Available Languages
