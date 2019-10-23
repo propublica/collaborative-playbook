@@ -1,8 +1,8 @@
 # Building Your Form and Database
 
-_ProPublica is building on the software tool we created for our large-scale partnerships and releasing it open source. It’s meant to be a turnkey solution that you can use to build your own project without having to start from scratch or hire a developer. It’s called Collaborate, and it will be available in the fall._
+_ProPublica built on the software tool we created for our large-scale partnerships and released it open source. It’s meant to be a turnkey solution that you can use to build your own project without having to start from scratch or hire a developer. I_[_t’s called Collaborate, and it's available here_](https://www.propublica.org/nerds/making-collaborative-data-projects-easier-our-new-tool-collaborate-is-here)_._
 
-_The project is a collaboration with the Google News Initiative, which also provided financial support. The software currently supports Google Forms, which is the tool we’ll use for our examples. It also supports data submitted using Screendoor, as well as data in Google Sheets spreadsheets you have access to._ [_**Sign up here to receive an alert when the tool is launched**_](https://propublica.forms.fm/documenting-hate-tool-sign-up)_._
+_The project is a collaboration with the Google News Initiative, which also provided financial support. The software currently supports Google Forms, which is the tool we’ll use for our examples. It also supports data submitted using Screendoor, as well as data in Google Sheets spreadsheets you have access to and CSVs._ 
 
 _From here on out, this guide is going to assume your project is based on crowdsourced tips._
 
